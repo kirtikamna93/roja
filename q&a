@@ -23,4 +23,4 @@ why we use "" in the printf??
 why () use after main?
 -it is indicate that main is a program building block called as function. 
 why ; is used after parentheses?
-it is called as statement terminator. 
+-it is called as statement terminator. 
