@@ -3,11 +3,15 @@ what is # and why we use this symbol??
 what is include??
 -it is used for system header file.it searches for a file in a standard list of sysytem directories.
 why we use <> ??
-what is stdio and why we use .h?
+- it looks for the file name at predefined standard path.
+what is stdio.h?
+-it is a header file which contains all pre processor directives and also standard input/output functions with extension .h  .
 what is int ??
+-
 why we use int main(void)?
 what is void??
-what is the use of printf?
+what is the use of printf()?
+-this function is used to print the character, string,float,integer,octal and hexadecimal values onto the output screen.
 why we use {}??
 what is the use of \n ??
 why we use "" in the printf??
