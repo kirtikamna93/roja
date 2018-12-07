@@ -1,4 +1,5 @@
 what is # and why we use this symbol??
+-it is used to define preprocessor i.e replacing all shortcuts by actualcode but donot do any calculation
 what is include??
 why we use <> ??
 what is stdio and why we use .h?
