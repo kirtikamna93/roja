@@ -7,16 +7,20 @@ why we use <> ??
 what is stdio.h?
 -it is a header file which contains all pre processor directives and also standard input/output functions with extension .h  .
 what is int ??
--
+-it is the return type,in case of an integer.
 why we use int main(void)?
--
-what is void??
+-it means that function accepts no argument stating by void and returns an integer value.
+what is (void)??
+-it indicates the function acceps no arguments .
 what is the use of printf()?
 -this function is used to print the character, string,float,integer,octal and hexadecimal values onto the output screen.
 why we use {}??
+-
 what is the use of \n ??
 it is used for new line.
 why we use "" in the printf??
+-
 why () use after main?
 -it is indicate that main is a program building block called as function. 
 why ; is used after parentheses?
+it is called as statement terminator. 
